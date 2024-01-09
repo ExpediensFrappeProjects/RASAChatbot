@@ -267,7 +267,7 @@ action_endpoint:
 
 ```
 - Incorporate entity classification and, if necessary, regular expressions for improved entity extraction.
-- Example(Without Regesx)
+- Example(Without Regex)
 ```
 - intent: provide_name
   examples: |
