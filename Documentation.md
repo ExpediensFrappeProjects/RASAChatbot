@@ -188,7 +188,7 @@ Example stories.yml content:
 sudo apt update && sudo apt install python3 python3-venv python3-pip
 ```
 
-2. Create and Activative Python Virtual Environment
+2. Create and Activate Python Virtual Environment
 - Create a Python Virtual Environment in the directory where you want to install RASA And Activate it.
 ```
 python3 -m venv ./VE_Name && source VE_Name/bin/activate
